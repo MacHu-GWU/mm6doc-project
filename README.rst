@@ -1,0 +1,2 @@
+- `Documentation <https://pydochost.s3.amazonaws.com/mm6doc/index.html>`_
+- `Game Download <https://www.amazon.com/clouddrive/share/gUdAFLCFHz73p43Nkx9wL069KGGQqRCx2S2NN4mwiqL?ref_=cd_ph_share_link_copy>`_
