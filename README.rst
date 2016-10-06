@@ -1,2 +1,4 @@
-- `Documentation <https://pydochost.s3.amazonaws.com/mm6doc/index.html>`_
-- `Game Download <https://www.amazon.com/clouddrive/share/gUdAFLCFHz73p43Nkx9wL069KGGQqRCx2S2NN4mwiqL?ref_=cd_ph_share_link_copy>`_
+魔法门6 - 天堂之令 文档网站
+===============================================================================
+- `在线文档 <https://pydochost.s3.amazonaws.com/mm6doc/index.html>`_
+- `游戏下载 <https://www.amazon.com/clouddrive/share/Vxbtv1MCiHtYtFMEmcktpyzPEZpThGKw18SQKPEyLyk?ref_=cd_ph_share_link_copy>`_
