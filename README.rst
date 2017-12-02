@@ -9,7 +9,7 @@
 
 使用 `sphinx-doc <http://www.sphinx-doc.org/>`_ 作为文档生成工具, 使用 `readthedocs <https://readthedocs.org/>`_ 托管文档。文档的源代码存放在 GitHub 上。
 
-**如果你喜欢此项目, 请到 `这里 <https://github.com/MacHu-GWU/mm6doc-project>`_ , 点击右上角的 Star 为我点赞。谢谢!**
+**如果你喜欢此项目, 请到** `这里 <https://github.com/MacHu-GWU/mm6doc-project>`_, **点击右上角的 Star 为我点赞。谢谢!**
 
 - `在线文档 <https://mm6doc.readthedocs.io/index.html>`_
 - `游戏下载 <https://www.amazon.com/clouddrive/share/3LVygcQXPGiL0iWn3UpGGTJp4H8wQDaVhtYGzWAxHoC>`_
