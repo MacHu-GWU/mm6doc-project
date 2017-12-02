@@ -1,5 +1,8 @@
-from dataIO.textfile import read, write, readlines
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 from pathlib_mate import Path
+from dataIO.textfile import read, write, readlines
 
 tags = list(readlines("tag.txt"))
 
