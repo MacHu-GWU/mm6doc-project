@@ -14,7 +14,7 @@
 .. toctree::
    :maxdepth: 1
 
-    新索匹格 (J 1) <01-新索匹格/index.rst>
+    新索匹格 (J 40) <01-新索匹格/index.rst>
     铁拳城堡 (J 37) <02-铁拳城堡/index.rst>
     浓雾岛 (J 39) <03-浓雾岛/index.rst>
     布特雷格湾 (J 36) <04-布特雷格湾/index.rst>

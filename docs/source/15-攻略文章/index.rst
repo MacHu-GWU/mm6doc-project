@@ -7,10 +7,11 @@
 .. toctree::
    :maxdepth: 1
 
-    15天通关攻略 <01-15天通关攻略/index.rst>
-    进入NWC <02-进入NWC/index.rst>
-    宝物和神器的上限 <03-宝物和神器的上限/index.rst>
-    省钱大法 <04-省钱大法/index.rst>
-    MM6恩报版课本-基础数学 <05-MM6恩报版课本-基础数学/index.rst>
-    MM6恩报版课本-恢复时间学 <06-MM6恩报版课本-恢复时间学/index.rst>
+    伤害以及生命法力计算 <101-伤害以及生命法力计算/index.rst>
+    宝物和神器的上限 <103-宝物和神器的上限/index.rst>
+    MM6恩报版课本-基础数学 <105-MM6恩报版课本-基础数学/index.rst>
+    MM6恩报版课本-恢复时间学 <106-MM6恩报版课本-恢复时间学/index.rst>
+    15天通关攻略 <201-15天通关攻略/index.rst>
+    进入NWC <202-进入NWC/index.rst>
+    省钱大法 <203-省钱大法/index.rst>
     
